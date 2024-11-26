@@ -89,19 +89,10 @@ Linux Labs builds upon the strengths of Linux to deliver a platform that is secu
 <br>
 
 
-  
-<p style="text-align: center;">
-  <img src="https://drive.google.com/uc?export=view&id=18jelUZ2VjqmjInHogAOefix81nwGZlac" alt="Image">
-</p>
-
-
 
 > # COMPARING LINUX DISTRIBUTIONS: DEBIAN, FEDORA, ARCH LINUX AND OPEN SUSE.
 
-
-
-
-
+  
 <details>
 <summary>CLICK HERE TO READ MORE.</summary>
 
@@ -238,7 +229,15 @@ Your ideal distribution depends on your technical expertise, hardware requiremen
 <br>
 <br>
 
+  
+<p style="text-align: center;">
+  <img src="https://drive.google.com/uc?export=view&id=18jelUZ2VjqmjInHogAOefix81nwGZlac" alt="Image">
+</p>
 
+
+
+<br>
+<br>
  
 > # In-Depth Resource Usage Analysis for Debian, Fedora, Arch Linux, and OpenSUSE.
 
